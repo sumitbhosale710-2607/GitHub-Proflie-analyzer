@@ -172,7 +172,7 @@ app.py        — displays everything in the browser
 
 <div align="center">
 
-Built by [Premnath-06](https://github.com/Premnath-06) — CS student and game developer learning Python by building real tools.
+Built by [sumitbhosale710-2607](https://github.com/sumitbhosale710-2607) — CS student and game developer learning Python by building real tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Premnath--06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Premnath-06)
 
